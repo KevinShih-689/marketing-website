@@ -6,8 +6,7 @@ import {
   Link
 } from "react-router-dom";
 import reportWebVitals from './reportWebVitals';
-import { Button } from 'stories/Button';
-// import { router } from 'common/routes';
+import { Button } from 'stories/Button/Button';
 import './index.css';
 
 const root = ReactDOM.createRoot(
