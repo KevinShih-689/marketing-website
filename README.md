@@ -16,6 +16,7 @@
 
 Tool | Benefit | Doc
 -----|---------|----
+Tailwind | Utility-first CSS framework | [link](https://tailwindcss.com/)
 Cypress |  * Create tests for modern web applications, debug them visually </br > * Can use in CI/CD to test web automatically | [link](https://www.cypress.io/)
 SonarQube | * Test code quality </br> * Can use in CI Flow | [link](https://www.sonarsource.com/products/sonarqube/)
 Jest | Function unit test | [link](https://jestjs.io/)

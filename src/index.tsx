@@ -6,6 +6,7 @@ import {
   Link
 } from "react-router-dom";
 import reportWebVitals from './reportWebVitals';
+import { Button } from 'stories/Button';
 // import { router } from 'common/routes';
 import './index.css';
 
@@ -25,7 +26,7 @@ const router = createBrowserRouter([
   },
   {
     path: "about",
-    element: <div>About</div>,
+    element: <div>About <Button size="small" onClick={() => { console.log("Be Click") }} label="Log in" /></div>,
   },
 ]);
 
